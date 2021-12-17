@@ -1,0 +1,12 @@
+ProductID,ProductName,RetailPrice,DiscountedPrice,Rating,Category
+1,Lime Pickle Brand 1,225,185,3.5,"Food, Pickle "
+2,Citron Pickle,250,225,4,"Food, Pickle "
+3,Mixed Pickle,230,175,4.5,"Food, Pickle "
+4,Lime Pickle Brand 2,240,190,3.9,"Food, Pickle "
+5,Broom Brand 1 ,500,455,3.8,"Household, Broom"
+6,Broom Brand 2,550,490,3.9,"Household, Broom"
+7,Broom Brand 3,634,422,3.6,"Household, Broom"
+8,Floor Cleaner Brand 1,650,450,2.8,"Household, Floor Cleaner"
+9,Floor Cleaner Brand 2,600,435,2.8,"Household, Floor Cleaner"
+10,Pen pack brand 1,200,150,4.8,"Stationery, Pen"
+11,Pen pack brand 1,250,175,4.7,"Stationery, Pen"
